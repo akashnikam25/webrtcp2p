@@ -26,7 +26,7 @@ This project is a simple WebRTC application that allows for video streaming betw
 3. Run the server with the following command:
 
    ```bash
-   cd backend
+   cd back-end
    go run main.go
    ```
 
